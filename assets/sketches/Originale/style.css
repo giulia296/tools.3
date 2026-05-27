@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(13, 13, 51); /* Colore di sfondo scuro */
+}
+
+canvas {
+  display: block; /* Rimuove spazi vuoti indesiderati sotto la canvas */
+}

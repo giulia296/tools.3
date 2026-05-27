@@ -1,0 +1,12 @@
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background-color: transparent !important; /* Forza la trasparenza della pagina */
+    overflow: hidden; /* Evita le barre di scorrimento */
+  }
+  canvas {
+    display: block;
+    background-color: transparent !important; /* Forza la trasparenza del canvas */
+  }
+</style>
